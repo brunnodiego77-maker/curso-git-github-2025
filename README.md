@@ -14,6 +14,8 @@ Confira tudo o que temos no nosso Youtube. É grátis! Segue o link:
 
 {curso git 2025}(https://youtube.com/@teomewhy)
 
+Alem do nosso youtube, se ligue no nosso site e agenda para ficar por dentro de tudo que vai rolar em 2025.
+
 
 01. git clone <endereço do projeto> 
 02. git checkout - -b nova branch
