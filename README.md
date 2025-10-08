@@ -10,7 +10,10 @@ Alem disso, vamos trabalhar com GitFlow ao final do curso e Visual studio code.
 
 
 
-Confira tudo o que temos no nosso Youtube. É grátis
+Confira tudo o que temos no nosso Youtube. É grátis! Segue o link:
+
+{curso git 2025}(https://youtube.com/@teomewhy)
+
 
 01. git clone <endereço do projeto> 
 02. git checkout - -b nova branch
